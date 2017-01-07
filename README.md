@@ -1,5 +1,7 @@
 # q_learning_demo
 This is the code for "How to use Q Learning in Video Games Easily" by Siraj Raval on Youtube
+## ScreenShot of Modified Board
+![Screenshot of World](./screenshot.png)
 
 ##Overview
 
